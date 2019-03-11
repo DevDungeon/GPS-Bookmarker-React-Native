@@ -2,8 +2,7 @@ GPS Bookmarker
 ==============
 
 Simple prototype example for accessing GPS coordinates
-from device, and storing array of location in internal
-async storage (e.g. Sqlite)
+from device
 
 Created using ``expo init``.
 
